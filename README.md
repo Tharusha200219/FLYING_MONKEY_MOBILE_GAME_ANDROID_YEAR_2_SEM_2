@@ -3,5 +3,5 @@
 
 
 <img src="https://github.com/Tharusha200219/FLYING_MONKEY_MOBILE_GAME_ANDROID/blob/main/image.png?raw=true" style="width: 200px">
-<img src="[https://github.com/Tharusha200219/FLYING_MONKEY_MOBILE_GAME_ANDROID/blob/main/image.png?raw=true](https://github.com/Tharusha200219/FLYING_MONKEY_MOBILE_GAME_ANDROID/blob/main/image%20copy.png?raw=true)" style="width: 200px">
+<img src="https://github.com/Tharusha200219/FLYING_MONKEY_MOBILE_GAME_ANDROID/blob/main/image%20copy.png?raw=true" style="width: 200px">
 
